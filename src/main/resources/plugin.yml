@@ -1,0 +1,6 @@
+name: Testtrtt
+version: '${project.version}'
+main: org.oreoprojekt.testtrtt.Testtrtt
+api-version: 1.16
+commands:
+  axe:
